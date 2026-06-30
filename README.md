@@ -54,11 +54,21 @@ Welcome to my GitHub profile! I'm a Entc Engineering student passionate about bu
 
 ## 🚀 Featured Projects
 
-### 📈 TradeSense
+### ✈️ BonVoyage
 
-Stock market analysis platform designed to help users understand market trends and make informed decisions.
+A full-stack travel planning web application that helps users explore destinations, plan trips, manage itineraries, and book travel services through an intuitive and responsive interface.
 
-**Tech Stack:** Java, Spring Boot, MySQL
+**Key Features:**
+- 🌍 Browse and search popular travel destinations
+- 🏨 Hotel and accommodation listings
+- 📅 Trip planning and itinerary management
+- 🔍 Destination recommendations
+- 📱 Fully responsive user interface
+
+**Tech Stack:** Java, Spring Boot, MySQL, HTML, CSS, JavaScript
+
+🔗 **GitHub:** https://github.com/your-username/BonVoyage
+🌐 **Live Demo:** https://your-demo-link.com
 
 ### 🛒 Smart Shop Mini
 
@@ -78,7 +88,7 @@ Collection of Core Java programs covering OOP, Collections Framework, Exception 
 
 ### LeetCode
 
-* Problems Solved: 100+
+* Problems Solved: 50+
 * Focus Areas:
 
   * Arrays
@@ -97,6 +107,8 @@ Collection of Core Java programs covering OOP, Collections Framework, Exception 
 * Microservices
 * Data Structures & Algorithms
 * React
+* Gen-AI
+* Docker
 
 ---
 
@@ -119,8 +131,8 @@ Collection of Core Java programs covering OOP, Collections Framework, Exception 
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/sanikakamble594-tech
-* LinkedIn: Add Your LinkedIn URL
-* Email: Add Your Email
+* LinkedIn: linkedin.com/in/sanika-kamble-8201a6328
+* Email: sanikakamble594@gmail.com
 
 ---
 
