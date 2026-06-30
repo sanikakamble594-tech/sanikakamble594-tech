@@ -67,8 +67,7 @@ A full-stack travel planning web application that helps users explore destinatio
 
 **Tech Stack:** Java, Spring Boot, MySQL, HTML, CSS, JavaScript
 
-🔗 **GitHub:** https://github.com/your-username/BonVoyage
-🌐 **Live Demo:** https://your-demo-link.com
+
 
 ### 🛒 Smart Shop Mini
 
@@ -120,11 +119,6 @@ Collection of Core Java programs covering OOP, Collections Framework, Exception 
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanikakamble594-tech\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanikakamble594-tech\&layout=compact)
 
 ---
 
